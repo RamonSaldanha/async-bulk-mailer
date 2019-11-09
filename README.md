@@ -4,7 +4,7 @@ depois execute:
 ```
 npm install
 ```
-feito isso, executo:
+feito isso, execute:
 ```
 node main
 ```
