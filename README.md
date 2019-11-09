@@ -1,4 +1,4 @@
-# Envio assincrono de e-mails em node.
+# Envio assíncrono de e-mails em node.
 
 mude os destinatários no arquivo destionation.txt e execute o comando
 ```
