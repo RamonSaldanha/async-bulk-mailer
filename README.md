@@ -1,6 +1,10 @@
-# Envio assincrono de e-mails em node.
-
-mude os destinatários no arquivo destionation.txt e execute o comando
+# Envio assíncrono de e-mails em node.
+Antes de tudo, por favor crie uma lista de e-mails separados por quebra de linha, no arquivo destination.txt.
+depois execute:
+```
+npm install
+```
+feito isso, execute:
 ```
 node main
 ```
