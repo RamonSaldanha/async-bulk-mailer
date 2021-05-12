@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/RamonSaldanha/bulk-mailer-node#readme",
   "dependencies": {
-    "nodemailer": "^6.3.1"
+    "nodemailer": "^6.4.16"
   }
 }
